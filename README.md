@@ -1,4 +1,4 @@
-# flutter_app
+# Hopmasters flutter_app first example
 
 A new Flutter application.
 
